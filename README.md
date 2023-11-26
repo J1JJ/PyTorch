@@ -1,2 +1,15 @@
 # PyTorch
 Working with PyTorch tutorial
+
+00_pytorch --> PyTorch fundamentals 
+
+01_pytorch --> Workflow fundamentals
+
+02_pytorch --> NN classification
+
+03_pytorch --> Computer Vision
+
+04_pytorch --> Custom Datasets
+
+05_pytorch --> Modular 
+
