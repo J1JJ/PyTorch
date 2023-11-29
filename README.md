@@ -13,3 +13,4 @@ Working with PyTorch tutorial
 
 05_pytorch --> Modular 
 
+06_pytorch --> Transfer Learning 
