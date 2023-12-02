@@ -14,3 +14,5 @@ Working with PyTorch tutorial
 05_pytorch --> Modular 
 
 06_pytorch --> Transfer Learning 
+
+07_pytorch --> Experiment Tracking
