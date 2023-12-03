@@ -16,3 +16,7 @@ Working with PyTorch tutorial
 06_pytorch --> Transfer Learning 
 
 07_pytorch --> Experiment Tracking
+
+https://arxiv.org/abs/2010.11929
+
+08_pytorch --> Paper Replicating (ViT)
